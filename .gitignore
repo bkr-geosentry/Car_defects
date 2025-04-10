@@ -1,0 +1,11 @@
+# Ignore virtual environment
+bkr_env/
+.gradio/
+__pycache__/
+# Ignore other common stuff
+__pycache__/
+*.pyc
+.DS_Store
+
+# Optional (if you use VS Code)
+.vscode/
